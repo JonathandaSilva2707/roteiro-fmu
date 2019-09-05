@@ -2,58 +2,53 @@
 
 2 - Definir quem e quantos vão ser nessários para desenvolver o projeto
 
-3 - Definir quais equipamentos levar
+3- Definir local de execução do projeto (local ou remoto)
 
-fazer reservas de hotel 
+4 - Definir quais equipamentos levar
 
-Reservar passagens 
+5 - Definir escala de trabalho
 
-definir translado da equipe
+6 - Definir transporte
 
-Reservar almoço com cliente no primeiro dia da viagem
+7 - Reservar passagens 
 
-Definir transporte
+8 - Fazer reservas de hotel 
 
-Preparar apresentação da empresa
+9 - Definir translado da equipe
 
-Definir como será feio o projeto internamente
+10 - Preparar apresentação da empresa
 
-Definir escala de trabalho
+11 - Reservar almoço com cliente no primeiro dia da viagem
 
-Organizar duração do projeto
+12 - Consultar viabilidade do projeto
 
-Levar material para metodologia agil 
+13 - Definir como será feito o projeto internamente
 
-Definir orçamento e metodo de cobrança do projeto
+14 - Delegar função dos integrantes do grupo
 
-Consultar viabilidade do projeto 
+15 - Planejar uma dinamica para engajamento da equipe
 
-Locação no cliente para mapear seu workflow e seu mindset
+16 - Definir metodo de execução do projeto
 
-Ver o regra de negocio do cliente para levantar melhor os requisitos do projeto
+17 - Organizar duração do projeto
 
-Estudar o negocio do cliente
+18 - Definir riscos do projeto
 
-Definir metodo de execução do projeto
+19 - Definir orçamento e metodo de cobrança do projeto
 
-Indentificar melhorias no processo do cliente
+20 - Estudar o negocio do cliente
 
-Definir local de execução do projeto (local ou remoto)
+21 - Definir disponibilidade de mão de obra do cliente para participar do projeto
 
-Definir riscos do projeto
+22 - Locação no cliente para mapear seu workflow e seu mindset
 
-Definir disponibilidade de mão de obra do cliente participar do projeto
+23 - Fazer workshop com o cliente sobre area da empresa
 
+24 - Ver o regra de negocio do cliente para levantar melhor os requisitos do projeto
 
-Definir planejamento de otmização de software
+25 - Indentificar melhorias no processo do cliente
 
-Fazer workshop com o cliente sobre area da empresa
+26 - Definir planejamento de otmização de software
 
-Planejar uma dinamica para engajamento da equipe
+27 - Definir material para metodologia agil 
 
-Delegar função dos integrantes do grupo
-
-
-
-
- 
